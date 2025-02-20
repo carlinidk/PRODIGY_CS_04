@@ -19,7 +19,7 @@ A simple keylogger built using **Python & Tkinter** with a **Cyberpunk Neon GUI*
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/keylogger.git
+   git clone https://github.com/carlinidk/PRODIGY_CS_04.git
    cd keylogger
    ```
 2. Install dependencies:
